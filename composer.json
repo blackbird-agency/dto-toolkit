@@ -1,14 +1,19 @@
 {
   "name": "blackbird/dto-toolkit",
   "version": "1.0.0",
-  "description": "N/A",
+  "authors": [
+      {
+          "name": "Blackbird Agency",
+          "email": "contact@bird.eu",
+          "homepage": "https://black.bird.eu"
+      }
+  ],
+  "description": "DTO Toolkit module provides the tools for creating Data Transfer Objects (DTO) in Magento 2 while retaining Magento's key features such as plugins, preferences, etc.",
   "type": "magento2-module",
   "require": {
     "magento/framework": "*"
   },
-  "license": [
-    "Proprietary"
-  ],
+  "license": "MIT",
   "autoload": {
     "files": [
       "registration.php"
