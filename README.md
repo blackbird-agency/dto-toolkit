@@ -48,7 +48,7 @@ php bin/magento setup:upgrade
 
 ## Usage
 
-To instanciate your DTO while maintains full compatibility with Magento 2, please use the provided DTOFactory
+To instantiate your DTO while maintains full compatibility with Magento 2, please use the provided DTOFactory
 ```php
 use Blackbird\DTOToolkit\Model\Factory\DTOFactory;
 
