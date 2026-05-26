@@ -11,7 +11,7 @@
   
 # dto-toolkit
 
-[![Latest Stable Version](https://img.shields.io/badge/version-1.0.0-blue)](https://packagist.org/packages/blackbird/dto-toolkit)
+[![Latest Stable Version](https://img.shields.io/badge/version-1.0.1-blue)](https://packagist.org/packages/blackbird/dto-toolkit)
 [![Total Downloads](https://img.shields.io/packagist/dt/blackbird/dto-toolkit)](https://packagist.org/packages/blackbird/dto-toolkit)
 [![License: MIT](https://img.shields.io/github/license/blackbird-agency/dto-toolkit.svg)](./LICENSE)
 
