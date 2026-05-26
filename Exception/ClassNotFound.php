@@ -14,7 +14,7 @@ class ClassNotFound extends LocalizedException
      * @param \Exception|null $cause
      * @param int $code
      */
-    public function __construct(Phrase $phrase = null, \Exception $cause = null, int $code = 0)
+    public function __construct(?Phrase $phrase = null, ?\Exception $cause = null, int $code = 0)
     {
         if ($phrase === null) {
             $phrase = new Phrase("The class provided was not found.");
